@@ -49,7 +49,7 @@ const Todos = () => {
         }
     }
 
-    checkDB();
+    // checkDB();
 
     return (
         <div>
